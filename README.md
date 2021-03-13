@@ -1,4 +1,4 @@
-Hi, I am a progrmmer.
+Hi, I am a programmer.
 
 Current active project is an implementation of a core of
 [NEXO standards](https://www.nexo-standards.org/). It's a major evolving
