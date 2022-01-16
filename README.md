@@ -7,4 +7,6 @@ free (like in "freedom") and opensource software in the future. I have a
 faint hope that maybe it will help to democratize payment industry and make
 if more accessible for small players.
 
+Live demo: 139.162.175.251:5000/nexo
+
 If your interested please contact me using an email from the profile.
