@@ -8,5 +8,6 @@ faint hope that maybe it will help to democratize payment industry and make
 if more accessible for small players.
 
 [Live demo](http://139.162.175.251:5000/nexo).
+(Isn't working, because I don't have time to update paths to python 3.10)
 
 If your interested please contact me using an email from the profile.
