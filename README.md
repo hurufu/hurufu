@@ -1,3 +1,5 @@
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 Hi, I am a programmer.
 
 Current (but not active) project is an implementation of a core of
